@@ -13,6 +13,7 @@ const navItems: NavItem[] = [
   { name: 'Первая лабораторная', href: '/' },
   { name: 'Вторая лабораторная', href: '/lab2' },
   { name: 'Третья лабораторная', href: '/lab3' },
+  { name: 'Четвертая лабораторная', href: '/lab4' },
 ];
 
 export default function Navbar() {
